@@ -28,4 +28,4 @@ python3 main.py
 
 ### Additional
 Find the complete discription in the file report.pdf
-for a video demo of the project follow this [link](https://drive.google.com/open-id=1VU_2L3DB9Y1chTrwwtWivjGQBDn_BuXb) 
+for a video demo of the project follow this [link](https://drive.google.com/open?id=1VU-2L3DB9Y1chTrwwtWivjGQBDn_BuXb) 
