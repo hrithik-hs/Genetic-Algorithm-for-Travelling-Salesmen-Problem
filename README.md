@@ -14,17 +14,17 @@ Usage of python3 and PyGame library.
 Install Python3 from using this [link](https://www.python.org/)
 ##### PyGame
 Install PyGame the following command in terminal
-'''
+```
 pip3 install pygame
-'''
+```
 
 ## Running the Program
 Clone the repositry 
 Switch to the directory with main.py
 Run the code using the following command
-'''
+```
 python3 main.py
-'''
+```
 
 ### Additional
 Find the complete discription in the file report.pdf
